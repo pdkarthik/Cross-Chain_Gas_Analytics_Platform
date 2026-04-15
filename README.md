@@ -1,6 +1,6 @@
 # 🚀 Cross-Chain Gas Analytics Platform
 
-🌐 Live: 🔗 https://realtime-crosschain-gastracker.netlify.app
+> 🌐 Live: 🔗 https://cross-chain-gas-analytics-platform.vercel.app
 
 
 This project is a **real-time dashboard** built with **React**, **Zustand**, **Ethers.js**, and **Lightweight Charts** that:
